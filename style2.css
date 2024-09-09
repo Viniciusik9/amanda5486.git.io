@@ -1,0 +1,25 @@
+/* Estilo para a página 2 */
+body {
+    margin: 0;
+    padding: 2em;
+    font-family: 'Cursive', sans-serif; /* Use uma fonte cursiva */
+    background-color: #724f6f63;
+    text-align: center;
+    font-size: 1.8em;
+    line-height: 1.6;
+    background-image: url('nos2.jpg'); /* Substitua pela URL da sua imagem */
+    background-position: center; /* Centraliza a imagem horizontalmente */
+    background-repeat: no-repeat; /* Evita que a imagem seja repetida */
+    background-size: cover;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #a7938336;
+    padding: 2em;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    font-weight: 700;
+    color: rgb(240, 213, 188);
+}
